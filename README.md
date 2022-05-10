@@ -12,11 +12,7 @@
 
 Link para visualizar: [View Demo](https://PatriciaRodriguesR.github.io/DIO-Jogo-Estilo-Naves/)
 
-### 🖥️ Computer
-
 ---
-
-[![Computer](assets/Computer.gif)](https://github.com/PatriciaRodriguesR/DIO-Jogo-Estilo-Naves)
 
 ## ℹ️ Description
 
